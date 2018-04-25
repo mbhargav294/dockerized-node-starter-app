@@ -1,0 +1,34 @@
+{
+  "name": "dockerized-node-starter-app",
+  "version": "1.0.0",
+  "description": "Node boilerplate utilizing docker in development",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mbhargav294/dockerized-node-starter-app.git"
+  },
+  "keywords": [
+    "boilerplate",
+    "starter",
+    "starterapp",
+    "starterkit",
+    "docker",
+    "node"
+  ],
+  "author": "mbhargav294",
+  "license": "Apache-2.0",
+  "bugs": {
+    "url": "https://github.com/mbhargav294/dockerized-node-starter-app/issues"
+  },
+  "homepage": "https://github.com/mbhargav294/dockerized-node-starter-app#readme",
+  "dependencies": {
+    "express": "^4.16.3"
+  },
+  "devDependencies": {
+    "eslint": "^4.19.1"
+  }
+}
